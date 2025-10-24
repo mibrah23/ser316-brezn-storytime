@@ -10,4 +10,4 @@
 
 -Max (mdcarbo2) -> Team Tueftler https://github.com/GregoAV/SER316-Tueftler-Icebreaker/pull/6
 
-- Ali Shaban (external): https://github.com/Nourkhaled2/ser316-gemuetilchkeit-story/pull/19
+Ali Shaban (external): https://github.com/Nourkhaled2/ser316-gemuetilchkeit-story/pull/19
