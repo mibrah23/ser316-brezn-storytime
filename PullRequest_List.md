@@ -8,5 +8,5 @@
 
 -Julie (juliedelaro) -> Team gemuetilchkeit https://github.com/Nourkhaled2/ser316-gemuetilchkeit-story/pull/15
 
--Max (mdcarbo2) -> Team Tueftler https://github.com/GregoAV/SER316-Tueftler-Icebreaker
+-Max (mdcarbo2) -> Team Tueftler https://github.com/GregoAV/SER316-Tueftler-Icebreaker/pull/6
 
